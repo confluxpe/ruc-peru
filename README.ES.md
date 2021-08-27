@@ -1,18 +1,16 @@
 # ruc-peru
 
-Library to search RUC on SUNAT database
+Librería para buscar RUC, DNI y AFP en la base de datos de SUNAT
 
 ```
 npm install rucperu
 ```
 
-[🇵🇪 Spanish - Español](https://github.com/confluxpe/ruc-peru/blob/main/README.ES.md)
+## Obtener Token
 
-## Get Token
+Se debe crear una cuenta en https://ruc.conflux.pe
 
-You have to create an account on https://ruc.conflux.pe
-
-## Use
+## Uso
 
 ```
 const rucPeru = require('../index');
