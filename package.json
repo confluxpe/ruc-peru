@@ -1,19 +1,25 @@
 {
-    "name": "ruc-conflux",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "jest"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "axios": "^0.21.1",
-        "ruc-validate": "^1.0.2"
-    },
-    "devDependencies": {
-        "jest": "^27.1.0"
-    }
+	"name": "ruc-conflux",
+	"version": "1.0.0",
+	"description": "Libreria para consulta de RUC, DNI y AFP.",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"ruc",
+		"dni",
+		"afp",
+		"peru",
+		"conflux"
+	],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"ruc-validate": "^1.0.2"
+	},
+	"devDependencies": {
+		"jest": "^27.1.0"
+	}
 }
