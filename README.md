@@ -28,3 +28,7 @@ const rucPeru = require('ruc-peru');
 	console.log({ ruc, dni, afp });
 })();
 ```
+
+## Explicit token
+
+You can configure **process.env.RUC_TOKEN** as your default token. In that case, it's no longer require the token on instance declaration.

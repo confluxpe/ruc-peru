@@ -26,3 +26,7 @@ const rucPeru = require('ruc-peru');
 	console.log({ ruc, dni, afp });
 })();
 ```
+
+## Token oculto
+
+Puede configurar **process.env.RUC_TOKEN** como su token por defecto. En ese caso, ya no es necesario el uso del token en la declaración de la instancia del objeto.
