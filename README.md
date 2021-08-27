@@ -15,7 +15,7 @@ You have to create an account on https://ruc.conflux.pe
 ## Use
 
 ```
-const rucPeru = require('../index');
+const rucPeru = require('ruc-peru');
 
 (async function(){
 	const TOKEN = 'XXXXXX';
