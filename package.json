@@ -1,6 +1,6 @@
 {
 	"name": "ruc-peru",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Libreria para consulta de RUC, DNI y AFP.",
 	"main": "index.js",
 	"scripts": {
