@@ -3,7 +3,7 @@
 Librería para buscar RUC, DNI y AFP en la base de datos de SUNAT
 
 ```
-npm install rucperu
+npm install ruc-peru
 ```
 
 ## Obtener Token

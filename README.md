@@ -3,7 +3,7 @@
 Library to search RUC on SUNAT database
 
 ```
-npm install rucperu
+npm install ruc-peru
 ```
 
 [🇵🇪 Spanish - Español](https://github.com/confluxpe/ruc-peru/blob/main/README.ES.md)
